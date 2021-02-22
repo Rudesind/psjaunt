@@ -1,0 +1,11 @@
+{
+    "config":{
+        "browser":"default",
+        "start":"cw"
+    },
+
+    "engines": {
+        "g":"https://www.google.com/search?sxsrf="
+    }
+
+}
