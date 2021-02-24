@@ -5,7 +5,8 @@
     },
 
     "engines": {
-        "g":"https://www.google.com/search?sxsrf="
+        "g":"https://www.google.com/search?sxsrf=",
+        "d":"https://duckduckgo.com/?q=" 
     }
 
 }
